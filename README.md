@@ -50,7 +50,7 @@ If you are want to hire me, the following criteria are what I am looking for:
 
 1. Please, no coding challenges in the interview process
 
-    * If you want evidence that I am able to code, [here is an index with over 100 hours of me coding live on Twitch.tv](https://github.com/kevinmershon/livestream-highlights#twitch-channel) and here is a [two and a half hour](https://www.twitch.tv/videos/1465965304) sample in particular of me coding in Clojure on an open-source project.
+    * If you want evidence that I am able to code, [here is an index with over 100 hours of me coding live on Twitch.tv](https://github.com/kevinmershon/livestream-highlights#twitch-channel) and here is a [two and a half hour](https://www.twitch.tv/videos/1474196930) sample in particular of me coding in Clojure on an open-source project.
     * If this is not sufficient for your company's internal processes, thank you for your interest and best of luck in your search.
 
 1. I am **NOT** interested in working in the following industries:
