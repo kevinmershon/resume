@@ -17,9 +17,7 @@ I have owned and managed a software consultancy before, and I have worked in the
 * E-Commerce
 * Healthcare
 
-Currently, I am employed full time (remote) with [Ride
-Health](https://www.ridehealth.com/). I am *casually* seeking employment
-elsewhere, but always welcome new interesting opportunities.
+Currently, I am employed full time (remote). I am *casually* seeking part-time/consulting work.
 
 I am located in San Jose, CA. I am a US Citizen.
 
@@ -71,7 +69,7 @@ Recent open-source contributions
 
 Proprietary
 --
-Proprietary work samples written in Clojure are available upon request
+Proprietary work samples written in Clojure, Rust, and Swift are available upon request
 
 References
 ==
